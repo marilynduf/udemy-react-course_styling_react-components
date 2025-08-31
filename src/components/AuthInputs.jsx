@@ -4,7 +4,6 @@ import Button from "./Button";
 import TextButton from "./TextButton";
 import Input from "./Input.jsx";
 
-// tagged templates : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#tagged_templates
 const ControlControler = styled.div`
     display: flex;
     flex-direction: column;
